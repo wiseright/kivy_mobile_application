@@ -24,7 +24,7 @@ class Tabelline(App):
         self.window.cols = 1
         self.window.size_hint = (0.8, 0.9)
         self.window.pos_hint = {"center_x": 0.5, "center_y": 0.5}
-        #Window.size = (360, 800)
+        Window.size = (360, 800)
 
 
         # Popup for insertion error
